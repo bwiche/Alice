@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Ben's Homepage</title>
+    <meta name="description" content="Ben Wiche's website for j4502">
+    <meta name="author" content="Ben Wiche">
+    <meta name="keywords" content="j4502, Ben Wiche">
+  </head>
+
+  <body>
+<h1>Ben Wiche's Wild Wacky Website</h1>
+<p>Welcome to the show</p>
+<nav>
+  <ul>
+    <li><a href="https://wichescovidblog.wordpress.com/" target="_blank">My Blog</a></li>
+    <li><a href="secondpage.html" target="_blank">My Second Page</a></li>
+  </ul>
+</nav>
+<p>Contact me at <a href="mailto:bpwchd@umsystem.edu">bpwchd@umsystem.edu</a></p>
+<p>Find my old website at <a href="https://j4502-ss21.github.io/Ben-Wiche/" </p>
+<a href="mailto:bpwchd@umsystem.edu">
+<img src="download.png" alt="Ben Wiche">
+</a>
+  <section>
+    <h2>Joke</h2>
+    <p>What is a Gen Z’ers favorite college?
+Juuliard.</p>
+  </section>
+    </body>
+
+</html>
